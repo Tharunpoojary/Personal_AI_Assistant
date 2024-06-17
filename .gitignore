@@ -1,0 +1,9 @@
+__pycache__*
+temp*
+model*
+new*
+test*
+chromedata
+data.txt
+token.json
+credentials.json
